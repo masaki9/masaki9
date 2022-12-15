@@ -7,3 +7,10 @@
 </p>
 
 ---
+
+| Project                                             | Link |
+| --------------------------------------------------- | -----|
+| COVID-19 Transmission Analysis with Topic Modelling | <a href src="https://www.masakii.com/posts/COVID19-Transmission/" target="_blank" rel="noopener noreferrer">https://www.masakii.com/posts/COVID19-Transmission/</a> |
+| COVID-19 Vaccine Tweets Sentiment Analysis  | <a href src="https://www.masakii.com/posts/COVID19-Vaccine-Tweets/" target="_blank" rel="noopener noreferrer">https://www.masakii.com/posts/COVID19-Vaccine-Tweets/</a> |
+| Tokyo Airbnb Data Analytics | <a href src="https://www.masakii.com/posts/Tokyo-Airbnb/" target="_blank" rel="noopener noreferrer">https://www.masakii.com/posts/Tokyo-Airbnb/</a> |
+| FBI NICS Firearm Background Checks Exploratory Data Analysis | <a href src="https://www.masakii.com/posts/Tokyo-Airbnb/" target="_blank" rel="noopener noreferrer">https://www.masakii.com/posts/NICS-Firearm-Background-Checks/</a> |

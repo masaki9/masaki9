@@ -1,4 +1,9 @@
-👋 Hello, I’m Masaki.<br>
-📍 BC, Canada<br>
-💼  <a href=https://www.masakii.com>https://www.masakii.com</a><br>
-📫 <a href src="mailto:contact@masakii.com">contact@masakii.com</a> 
+<h3 align="center">👋 Hello, I’m Masaki.</h3>
+
+<p align="center">
+  📍 British Columbia, Canada&ensp;
+  💼 <a href="https://www.masakii.com"> www.masakii.com</a>&ensp;
+  📫 <a href src="mailto:contact@masakii.com">contact@masakii.com</a>
+</p>
+
+---

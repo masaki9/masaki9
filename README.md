@@ -10,6 +10,7 @@
 
 | Project                                             | Link |
 | --------------------------------------------------- | -----|
+|Ensuring Data Type Consistency with SQL|<a href src="https://www.masakii.com/posts/Data-Type-Consistency-with-SQL/" target="_blank" rel="noopener noreferrer">https://www.masakii.com/posts/Data-Type-Consistency-with-SQL/</a>|
 | COVID-19 Transmission Analysis with Topic Modelling | <a href src="https://www.masakii.com/posts/COVID19-Transmission/" target="_blank" rel="noopener noreferrer">https://www.masakii.com/posts/COVID19-Transmission/</a> |
 | COVID-19 Vaccine Tweets Sentiment Analysis  | <a href src="https://www.masakii.com/posts/COVID19-Vaccine-Tweets/" target="_blank" rel="noopener noreferrer">https://www.masakii.com/posts/COVID19-Vaccine-Tweets/</a> |
 | Tokyo Airbnb Data Analytics | <a href src="https://www.masakii.com/posts/Tokyo-Airbnb/" target="_blank" rel="noopener noreferrer">https://www.masakii.com/posts/Tokyo-Airbnb/</a> |

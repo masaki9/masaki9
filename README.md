@@ -10,6 +10,7 @@
 
 | Project                                             | Link |
 | --------------------------------------------------- | -----|
+|Hyperparameter Tuning and Experiment Tracking with Weights & Biases|<a href src="https://www.masakii.com/posts/Tuning-and-Tracking-with-WANDB/" target="_blank" rel="noopener noreferrer">https://www.masakii.com/posts/Tuning-and-Tracking-with-WANDB/</a>|
 |SVM Model Optimization: Learning Curves, Validation Curves, and Hyperparameter Tuning|<a href src="https://www.masakii.com/posts/SVM-Model-Optimization/" target="_blank" rel="noopener noreferrer">https://www.masakii.com/posts/SVM-Model-Optimization/</a>|
 |Ensuring Data Type Consistency with SQL|<a href src="https://www.masakii.com/posts/Data-Type-Consistency-with-SQL/" target="_blank" rel="noopener noreferrer">https://www.masakii.com/posts/Data-Type-Consistency-with-SQL/</a>|
 | COVID-19 Transmission Analysis with Topic Modelling | <a href src="https://www.masakii.com/posts/COVID19-Transmission/" target="_blank" rel="noopener noreferrer">https://www.masakii.com/posts/COVID19-Transmission/</a> |

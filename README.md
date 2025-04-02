@@ -10,6 +10,7 @@
 
 | Project                                             | Link |
 | --------------------------------------------------- | -----|
+|Text Analysis API Implemented in C# and ASP.NET Core |<a href src="https://www.masakii.com/posts/Text-Analysis-API/" target="_blank" rel="noopener noreferrer">https://www.masakii.com/posts/Text-Analysis-API/</a>|
 |Hyperparameter Tuning and Experiment Tracking with Weights & Biases|<a href src="https://www.masakii.com/posts/Tuning-and-Tracking-with-WANDB/" target="_blank" rel="noopener noreferrer">https://www.masakii.com/posts/Tuning-and-Tracking-with-WANDB/</a>|
 |SVM Model Optimization: Learning Curves, Validation Curves, and Hyperparameter Tuning|<a href src="https://www.masakii.com/posts/SVM-Model-Optimization/" target="_blank" rel="noopener noreferrer">https://www.masakii.com/posts/SVM-Model-Optimization/</a>|
 |Ensuring Data Type Consistency with SQL|<a href src="https://www.masakii.com/posts/Data-Type-Consistency-with-SQL/" target="_blank" rel="noopener noreferrer">https://www.masakii.com/posts/Data-Type-Consistency-with-SQL/</a>|

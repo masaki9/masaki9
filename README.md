@@ -8,7 +8,7 @@
 
 ---
 
-| Project                                             | Topcs | Links |
+| Project                                             | Topics | Links |
 | --------------------------------------------------- | ----- | -----|
 |Text Analysis API Implemented in C# and ASP.NET Core | C#, Rest API | [Repo](https://github.com/masaki9/TextAnalysisAPI) &#124; [Overview](https://www.masakii.com/posts/Text-Analysis-API/)|
 |Hyperparameter Tuning and Experiment Tracking with W&B| Python, ML, MLOps | [Repo](https://github.com/masaki9/ml_experiments_with_wandb) &#124; [Overview](https://www.masakii.com/posts/Tuning-and-Tracking-with-WANDB/)|

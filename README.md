@@ -17,4 +17,4 @@
 | COVID-19 Transmission Analysis with Topic Modelling |[Repo](https://github.com/masaki9/CORD19) &#124; [Overview](https://www.masakii.com/posts/COVID19-Transmission/) |
 | COVID-19 Vaccine Tweets Sentiment Analysis  |[Repo](https://github.com/masaki9/COVID-19-Tweets) &#124; [Overview](https://www.masakii.com/posts/COVID19-Vaccine-Tweets/)|
 | Tokyo Airbnb Data Analytics |[Repo](https://github.com/masaki9/Tokyo-Airbnb) &#124; [Overview](https://www.masakii.com/posts/Tokyo-Airbnb/)|
-| FBI NICS Firearm Background Checks Exploratory Data Analysis |[Repo](https://github.com/masaki9/NICS-Firearm-Background-Checks) &#124; [Overview](https://www.masakii.com/posts/Tokyo-Airbnb/)|
+| FBI NICS Firearm Background Checks Exploratory Data Analysis |[Repo](https://github.com/masaki9/NICS-Firearm-Background-Checks) &#124; [Overview](https://www.masakii.com/posts/NICS-Firearm-Background-Checks/)|

@@ -10,9 +10,9 @@
 
 | Project                                             | Topics | Links |
 | --------------------------------------------------- | ----- | -----|
-|Text Analysis API Implemented in C# and ASP.NET Core | C#, Rest API | [Repo](https://github.com/masaki9/TextAnalysisAPI) &#124; [Overview](https://www.masakii.com/posts/Text-Analysis-API/)|
+|Text Analysis API Implemented in C# and ASP.NET Core | C#, REST API | [Repo](https://github.com/masaki9/TextAnalysisAPI) &#124; [Overview](https://www.masakii.com/posts/Text-Analysis-API/)|
 |Hyperparameter Tuning and Experiment Tracking with W&B| Python, ML, MLOps | [Repo](https://github.com/masaki9/ml_experiments_with_wandb) &#124; [Overview](https://www.masakii.com/posts/Tuning-and-Tracking-with-WANDB/)|
-|SVM Model Optimization: Learning Curves and Hyperparameter Tuning| Python, ML | [Repo](https://github.com/masaki9/aids_clinical_trials_group_study) &#124; [Overview](https://www.masakii.com/posts/SVM-Model-Optimization/)|
+|SVM Model Optimization: Learning/Validation Curves & Hyperparameter Tuning| Python, ML | [Repo](https://github.com/masaki9/aids_clinical_trials_group_study) &#124; [Overview](https://www.masakii.com/posts/SVM-Model-Optimization/)|
 |Ensuring Data Type Consistency with SQL| SQL, Data Migration | [Repo](https://github.com/masaki9/compare_table_column_data_types) &#124; [Overview](https://www.masakii.com/posts/Data-Type-Consistency-with-SQL/)|
 | COVID-19 Transmission Analysis with Topic Modelling | Python, ML, NLP | [Repo](https://github.com/masaki9/CORD19) &#124; [Overview](https://www.masakii.com/posts/COVID19-Transmission/) |
 | COVID-19 Vaccine Tweets Sentiment Analysis  | Python, ML, NLP | [Repo](https://github.com/masaki9/COVID-19-Tweets) &#124; [Overview](https://www.masakii.com/posts/COVID19-Vaccine-Tweets/)|

@@ -10,6 +10,7 @@
 
 | Project                                             | Topics | Links |
 | --------------------------------------------------- | ----- | -----|
+|Mental Health Sentiment Analysis API in ML.NET and ASP.NET Core | C#, ML.NET, REST API | [Repo](https://github.com/masaki9/MentalHealthSentimentAnalysisAPI) &#124; [Overview](https://www.masakii.com/posts/Mental-Health-Sentiment-Analysis-API/)|
 |Text Analysis API Implemented in C# and ASP.NET Core | C#, REST API | [Repo](https://github.com/masaki9/TextAnalysisAPI) &#124; [Overview](https://www.masakii.com/posts/Text-Analysis-API/)|
 |Hyperparameter Tuning and Experiment Tracking with W&B| Python, ML, MLOps | [Repo](https://github.com/masaki9/ml_experiments_with_wandb) &#124; [Overview](https://www.masakii.com/posts/Tuning-and-Tracking-with-WANDB/)|
 |SVM Model Optimization: Learning Curves & Hyperparameter Tuning| Python, ML | [Repo](https://github.com/masaki9/aids_clinical_trials_group_study) &#124; [Overview](https://www.masakii.com/posts/SVM-Model-Optimization/)|
